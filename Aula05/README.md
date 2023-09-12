@@ -1,4 +1,4 @@
-<h1 align="center">Aulas de Programação Web - UNICSUL</h1>
+<h1 align="center">Aula 05 - Programação Web</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -20,8 +20,14 @@ Apenas alguns exercicios para treinar progranmação web, todos os exercicios fo
 Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
 Conteúdos de aula:
-* **[Aula 01:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Apresentação e conceitos iniciais
-* **[Aula 02:](https://github.com/msanches/ProgComp/tree/main/Aula%2002)** Revisão sobre HTML
-* **[Aula 03:](https://github.com/msanches/ProgComp/tree/main/Aula%2003)** Revisão sobre CSS e introdução ao Javascript
-* **[Aula 04:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Exercícios
-* **[Aula 05:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Avanço no conteudo de JavaScript
+• JavaScript
+• Conversões
+• Operadores de comparação e lógicos
+• Estruturas de decisão
+• Estruturas de repetição
+• Funções
+• DOM (Document Object Model)
+• Eventos
+• Acessando os elementos do form em JS
+• Exemplos
+• Exercícios (Entrega até 17/11)
