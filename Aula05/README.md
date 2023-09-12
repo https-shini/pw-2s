@@ -30,4 +30,5 @@ Conteúdos de aula:
 • Eventos <br>
 • Acessando os elementos do form em JS <br>
 • Exemplos <br>
-• Exercícios (Entrega até 17/11)
+• Exercícios <br>
+  ↳ (Entrega até 17/11)
