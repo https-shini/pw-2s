@@ -19,11 +19,9 @@ Apenas alguns exercicios para treinar progranmação web, todos os exercicios fo
 Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
 Conteúdos de aula:
-• Apresentação da Disciplina (Plano de ensino) <br>
-• Oportunidades <br>
-• Curiosidades <br>
-• Introdução: Conceitos Iniciais <br>
+• HTML <br>
+• Conceitos iniciais e sintaxe básica <br>
+• Tags principais <br>
+• Formulários <br>
 • Exemplos <br>
-• Instalação das ferramentas <br>
-⠀↳ Visual Studio Code
-
+• Exercícios
