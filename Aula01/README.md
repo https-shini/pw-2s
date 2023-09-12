@@ -18,5 +18,5 @@ Conteúdos de aula:
 • Introdução: Conceitos Iniciais <br>
 • Exemplos <br>
 • Instalação das ferramentas <br>
-  ↳ Visual Studio Code
+⠀⠀⠀↳ Visual Studio Code
 
