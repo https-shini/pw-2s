@@ -14,10 +14,10 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 - JavaScript
 
 ## ☆ Projeto
-Apenas alguns exercicios para treinar progranmação web, todos os exercicios foram feitos em sala de aula ou são feitos para estudos.
+Apenas alguns exercicios para treinar progranmação web, todos os exercicios foram feitos em sala de aula ou são feitos para estudos no segundo semestre de Ciencias da Computação.
 ## ☆ Layout
 
-Você pode visualizar o layout do projeto feito com a ajuda do Professor Marco Antonio e como ele funciona através do conteudo das aulas abaixo.<br>
+Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
 Conteúdos de aula:
 * **[Aula 01:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Apresentação e conceitos iniciais
