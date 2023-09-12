@@ -20,8 +20,8 @@ Apenas alguns exercicios para treinar progranmação web, todos os exercicios fo
 Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
 Conteúdos de aula:
-* **[Aula 01:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Apresentação e conceitos iniciais
-* **[Aula 02:](https://github.com/msanches/ProgComp/tree/main/Aula%2002)** Revisão sobre HTML
-* **[Aula 03:](https://github.com/msanches/ProgComp/tree/main/Aula%2003)** Revisão sobre CSS e introdução ao Javascript
-* **[Aula 04:](https://github.com/msanches/ProgComp/tree/main/Aula%2001)** Exercícios
+* **[Aula 01:](https://github.com/https-shini/pw-2s/tree/main/Aula01)** Apresentação e conceitos iniciais
+* **[Aula 02:](https://github.com/https-shini/pw-2s/tree/main/Aula02)** Revisão sobre HTML
+* **[Aula 03:](https://github.com/https-shini/pw-2s/tree/main/Aula03)** Revisão sobre CSS e introdução ao Javascript
+* **[Aula 04:](https://github.com/https-shini/pw-2s/tree/main/Aula04)** Exercícios
 * **[Aula 05:](https://github.com/https-shini/pw-2s/tree/main/Aula05)** Avanço no conteudo de JavaScript
