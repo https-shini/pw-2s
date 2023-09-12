@@ -24,5 +24,6 @@ Conteúdos de aula: <br>
 • Como inserir o CSS nas páginas <br>
 • Seletores CSS <br>
 • Exemplos <br>
-• Exercícios <br>
 • Introdução ao Javascript <br>
+• Exercícios <br>
+⠀⠀↳ (Entrega até 17/11)
