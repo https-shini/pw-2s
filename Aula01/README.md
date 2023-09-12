@@ -7,8 +7,8 @@
 
 ## ☆ Projeto
 Apenas alguns exercicios para treinar progranmação web, todos os exercicios foram feitos em sala de aula ou são feitos para estudos no segundo semestre de Ciencias da Computação.
-## ☆ Layout
 
+## ☆ Layout
 Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
 Conteúdos de aula: <br>
