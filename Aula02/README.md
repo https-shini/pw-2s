@@ -23,4 +23,5 @@ Conteúdos de aula: <br>
 • Tags principais <br>
 • Formulários <br>
 • Exemplos <br>
-• Exercícios
+• Exercícios <br>
+⠀⠀↳ (Entrega até 17/11)
