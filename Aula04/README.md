@@ -15,19 +15,22 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ## ☆ Projeto
 Apenas alguns exercicios para treinar progranmação web, todos os exercicios foram feitos em sala de aula ou são feitos para estudos no segundo semestre de Ciencias da Computação.
-## ☆ Layout
 
+## ☆ Layout
 Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
-Conteúdos de aula:
+Conteúdos de aula: <br>
+• Resolução do exercício 2 da aula anterior <br>
+• Formulário e CSS <br>
 • JavaScript <br>
-• Conversões <br>
-• Operadores de comparação e lógicos <br>
-• Estruturas de decisão <br>
-• Estruturas de repetição <br>
-• Funções <br>
-• DOM (Document Object Model) <br>
-• Eventos <br>
-• Acessando os elementos do form em JS <br>
+• Formas de utilização <br>
+• Conceitos básicos <br>
+• Tipos de variáveis <br>
+• Comentários <br>
+• Operadores (Aritméticos e Atribuição) <br>
+• Strings <br>
+• Caixas de Diálogo <br>
+• Conversão de tipos <br>
+• Ferramenta Desenvolvedor <br>
 • Exemplos <br>
-• Exercícios (Entrega até 17/11)
+• Exercícios <br>
