@@ -19,7 +19,7 @@ Apenas alguns exercicios para treinar progranmação web, todos os exercicios fo
 
 Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
-Conteúdos de aula:
+Conteúdos da aula: <br>
 * **[Aula 01:](https://github.com/https-shini/pw-2s/tree/main/Aula01)** Apresentação e conceitos iniciais
 * **[Aula 02:](https://github.com/https-shini/pw-2s/tree/main/Aula02)** Revisão sobre HTML
 * **[Aula 03:](https://github.com/https-shini/pw-2s/tree/main/Aula03)** Revisão sobre CSS e introdução ao Javascript
