@@ -19,10 +19,6 @@ Apenas alguns exercicios para treinar progranmação web, todos os exercicios fo
 
 Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
-Conteúdos da aula: <br>
-* **[Aula 06 - PDF:](https://github.com/https-shini/pw-2s/blob/main/Aula06/Aula%206.pdf)**
-* **[Exercícios - PDF:](https://github.com/https-shini/pw-2s/blob/main/Aula06/Aula%206%20-%20Exercícios.pdf)**
-
 Conteúdo estudado em aula: <br>
 • JavaScript <br>
 • Objeto Math <br>
