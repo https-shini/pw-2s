@@ -29,7 +29,6 @@ Conteúdos da aula: <br>
 ⠀⠀↳ (Entrega até 17/11)
 
 ## ☆ Exercícios
-
-
-**[Exercício - 01](https://https-shini.github.io/pw-2s/Aula03/Exercicio01/ex01.html)** <br>
-**[Exercício - 02](https://https-shini.github.io/pw-2s/Aula03/Exercicio02/ex02.html)**
+Confira abaixo a resolução dos exercícios:
+* **[Exercício - 01](https://https-shini.github.io/pw-2s/Aula03/Exercicio01/index.html)**
+* **[Exercício - 02](https://https-shini.github.io/pw-2s/Aula03/Exercicio02/index.html)**
