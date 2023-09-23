@@ -19,7 +19,7 @@ Apenas alguns exercicios para treinar progranmação web, todos os exercicios fo
 ## ☆ Layout
 Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
-Conteúdos de aula: <br>
+Conteúdos da aula: <br>
 • Resolução do exercício 2 da aula anterior <br>
 • Formulário e CSS <br>
 • JavaScript <br>
