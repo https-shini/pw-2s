@@ -25,3 +25,4 @@ Conteúdos de aula:
 * **[Aula 03:](https://github.com/https-shini/pw-2s/tree/main/Aula03)** Revisão sobre CSS e introdução ao Javascript
 * **[Aula 04:](https://github.com/https-shini/pw-2s/tree/main/Aula04)** Exercícios
 * **[Aula 05:](https://github.com/https-shini/pw-2s/tree/main/Aula05)** Avanço no conteudo de JavaScript
+* **[Aula 06:](https://github.com/https-shini/pw-2s/tree/main/Aula06)** Avanço no conteudo de JavaScript
