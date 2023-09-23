@@ -3,7 +3,6 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## ☆ Tecnologias
@@ -14,7 +13,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 - JavaScript
 
 ## ☆ Projeto
-Apenas alguns exercicios para treinar programação web, todos os exercicios foram feitos em sala de aula para estudos no segundo semestre de Ciencias da Computação. Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
+Apenas alguns exercícios para treinar programação web, todos os exercicios foram feitos em sala de aula para estudos no segundo semestre de Ciencias da Computação. Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
 Conteúdos da aula:
 * **[Aula 01:](https://github.com/https-shini/pw-2s/tree/main/Aula01)** Apresentação e conceitos iniciais
