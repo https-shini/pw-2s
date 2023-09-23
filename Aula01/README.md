@@ -11,7 +11,7 @@ Apenas alguns exercicios para treinar progranmação web, todos os exercicios fo
 ## ☆ Layout
 Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
-Conteúdos de aula: <br>
+Conteúdos da aula: <br>
 • Apresentação da Disciplina (Plano de ensino) <br>
 • Oportunidades <br>
 • Curiosidades <br>
