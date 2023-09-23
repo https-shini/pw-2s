@@ -1,4 +1,4 @@
-<h1 align="center">Aula 05 - Programação Web</h1>
+<h1 align="center">Aula 06 - Programação Web</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,14 +21,19 @@ Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
 Conteúdos de aula: <br>
 • JavaScript <br>
-• Conversões <br>
-• Operadores de comparação e lógicos <br>
-• Estruturas de decisão <br>
-• Estruturas de repetição <br>
-• Funções <br>
-• DOM (Document Object Model) <br>
-• Eventos <br>
-• Acessando os elementos do form em JS <br>
+• Objeto Math <br>
+• Função toFixed <br>
+• Objeto String <br>
+• Objeto Date <br>
+• Objeto Event <br>
+• Vetores <br>
+• Métodos push, pop, shift e unshift <br>
+• Estrutura de repetição for...of <br>
+• Método map <br>
+• Método forEach <br>
+• Propriedade innerHTML e innerText <br>
+• Alterando o CSS em JS <br>
+• Funções setTimeout e setInterval <br>
 • Exemplos <br>
 • Exercícios <br>
 ⠀⠀↳ (Entrega até 17/11)
