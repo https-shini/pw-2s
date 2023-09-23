@@ -17,7 +17,7 @@ Apenas alguns exercicios para treinar progranmação web, todos os exercicios fo
 ## ☆ Layout
 Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
-Conteúdos de aula: <br>
+Conteúdos da aula: <br>
 • HTML <br>
 • Conceitos iniciais e sintaxe básica <br>
 • Tags principais <br>
