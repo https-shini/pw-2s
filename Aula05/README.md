@@ -19,7 +19,7 @@ Apenas alguns exercicios para treinar progranmação web, todos os exercicios fo
 
 Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
-Conteúdos de aula: <br>
+Conteúdos da aula: <br>
 • JavaScript <br>
 • Conversões <br>
 • Operadores de comparação e lógicos <br>
