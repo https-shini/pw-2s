@@ -30,5 +30,5 @@ Conteúdos da aula: <br>
 
 ## ☆ Exercícios
 Confira abaixo a resolução dos exercícios:
-* **[Exercício - 01](https://https-shini.github.io/pw-2s/Aula03/Exercicio01/index.html)**
-* **[Exercício - 02](https://https-shini.github.io/pw-2s/Aula03/Exercicio02/index.html)**
+* **[Exercício - 01](https://https-shini.github.io/pw-2s/Aula03/Exercicios/exercicio01/index.html)**
+* **[Exercício - 02](https://https-shini.github.io/pw-2s/Aula03/Exercicios/exercicio02/index.html)**
