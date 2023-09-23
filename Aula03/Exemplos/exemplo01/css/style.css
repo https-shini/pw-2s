@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Modern+Antiqua&family=Raleway:ital,wght@1,500&display=swap');
+
+*{
+    font-size: 20pt;
+}
+
+div{
+   box-sizing: border-box; 
+   width: 500px;
+   height: 250px;
+}
+
+.class1{
+    font-family: Verdana;
+}
+
+#c1{
+    background-color: violet;
+}
+
+#f1{
+    background-color: aqua;
+    font-family: Modern Antiqua;
+}

@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@300&family=Modern+Antiqua&family=Raleway:ital,wght@1,500&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Gluten', cursive;
+    line-height: 2px;
+    background-color: #d9dbe8;
+    padding: 0 20px;
+}
+img{
+    max-width: 100%;
+    display: block;
+    border-radius: 8px;
+}
+
+input{
+    border-radius: 0;
+}
+
+.card{
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 35%;
+    padding: 10px;
+}
+
+.card-image{
+    border-radius: 8px;
+    overflow: hidden;
+    background-image: url("../img/cafe.jpg");
+    padding-bottom: 55%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+}
+
+.card-heading{
+    position: absolute;
+    left: 50%;
+    top: 15%;
+    font-size: 34px;
+    font-weight: bold;
+    color: #e7ca87;
+}
+
+.card-heading small{
+    display: block;
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: 400;
+}
+
+.card-form{
+    width: 105%;
+    margin-left: 15px;
+}
+
+.single-input{
+    position: relative;
+    margin: 30px 0;
+}
+.single-input label{
+    position: absolute;
+    bottom: 15px;
+    left: 0;
+    color: rgb(150,150,150);
+    cursor: text;
+    transition: 0.5s ease-in-out;
+}
+
+.input-field{
+    width: 90%;
+    padding: 5px;
+    border: 0;
+    border-bottom: 2px solid rgb(200,200,200);
+    outline: 0;
+    font-size: 16px;
+    color: rgb(80,80,80);
+    transition: 0.5s ease-in-out;
+}
+
+.input-field:focus, .input-field:valid{
+    border-bottom: 2px solid cornflowerblue;
+}
+.input-field:focus ~ label, .input-field:valid ~ label{
+    transform: translateY(-24px);
+    font-size: 12px;
+    color: cornflowerblue;
+}
+
+button{
+    width: 90%;
+    padding: 16px 0px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 3px;
+    color: #ffffff;
+    background-color: #7b530d;
+    cursor: pointer;
+}
+
+.card-info{
+    margin-top: 5%;
+    font-family: Arial;
+    font-size: 14pt;
+    margin: 25px;
+}
