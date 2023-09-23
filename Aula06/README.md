@@ -19,7 +19,7 @@ Apenas alguns exercicios para treinar progranmação web, todos os exercicios fo
 
 Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
-Conteúdo estudado em aula: <br>
+Conteúdos da aula: <br>
 • JavaScript <br>
 • Objeto Math <br>
 • Função toFixed <br>
