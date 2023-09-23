@@ -1,8 +1,9 @@
 <h1 align="center">Aula 01 - Programação Web</h1>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>
 </p>
 
 ## ☆ Projeto
@@ -19,4 +20,3 @@ Conteúdos da aula: <br>
 • Exemplos <br>
 • Instalação das ferramentas <br>
 ⠀↳ Visual Studio Code
-
