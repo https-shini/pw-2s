@@ -15,11 +15,12 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ## ☆ Projeto
 Apenas alguns exercicios para treinar progranmação web, todos os exercicios foram feitos em sala de aula ou são feitos para estudos no segundo semestre de Ciencias da Computação.
+
 ## ☆ Layout
 
 Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
-Conteúdos da aula: <br>
+Conteúdos da aula:
 * **[Aula 01:](https://github.com/https-shini/pw-2s/tree/main/Aula01)** Apresentação e conceitos iniciais
 * **[Aula 02:](https://github.com/https-shini/pw-2s/tree/main/Aula02)** Revisão sobre HTML
 * **[Aula 03:](https://github.com/https-shini/pw-2s/tree/main/Aula03)** Revisão sobre CSS e introdução ao Javascript
