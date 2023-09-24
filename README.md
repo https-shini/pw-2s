@@ -23,3 +23,7 @@ Conteúdos da aula:
 * **[Aula 04:](https://github.com/https-shini/pw-2s/tree/main/Aula04)** Exercícios
 * **[Aula 05:](https://github.com/https-shini/pw-2s/tree/main/Aula05)** Avanço no conteudo de JavaScript
 * **[Aula 06:](https://github.com/https-shini/pw-2s/tree/main/Aula06)** Avanço no conteudo de JavaScript
+
+## ☆ Licença
+
+Esse projeto está sob a licença MIT.
